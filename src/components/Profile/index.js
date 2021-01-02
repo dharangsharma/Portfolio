@@ -26,7 +26,7 @@ const Profile = () => {
                           'Integration Engineer',
                           'Frontend Developer',
                           'Backend Developer',
-                          'Dreamer',
+                          
                       ]
                   }
                 />
