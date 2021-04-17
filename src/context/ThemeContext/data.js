@@ -1,10 +1,10 @@
-import ngrx from "../../assets/ngrx.png";
+import openstack from "../../assets/OpenStack.png";
 import react from '../../assets/react.png';
 import node from '../../assets/node.png';
 import js from '../../assets/js.png';
 import redux from '../../assets/redux.jpg';
-import angular from '../../assets/angular.png';
-import vue from '../../assets/vue.jpeg';
+import aws from '../../assets/aws.jpg';
+import django from '../../assets/django.png';
 
 export const THEMES = {
     'react' : {
@@ -13,14 +13,14 @@ export const THEMES = {
         primaryColor: '#61dafb',
         color: '#222222'
     },
-    'angular': {
-        backgroundImage: angular,
+    'aws': {
+        backgroundImage: aws,
         linearGradient:  createLinearGradient('#0043A9', '#B42B2C'),
         primaryColor: '#B52C2D',
         color: '#0043A9'
     },
-    'vue': {
-        backgroundImage: vue,
+    'django': {
+        backgroundImage: django,
         linearGradient: createLinearGradient('#49D191', '#33475F'),
         primaryColor: '#33475F',
         color: '#49D191'
@@ -37,8 +37,8 @@ export const THEMES = {
         primaryColor: '#F7E018',
         color: '#000000'
     },
-    'rxjs': {
-        backgroundImage: ngrx,
+    'openstack': {
+        backgroundImage: openstack,
         linearGradient: createLinearGradient('#F80090', '#242A31'),
         primaryColor: '#F80090',
         color: '#242A31'
@@ -49,8 +49,8 @@ export const THEMES = {
         primaryColor: '#764ABD',
         color: '#1E1E1E'
     },
-    'ngrx': {
-        backgroundImage: ngrx,
+    'openstack': {
+        backgroundImage: openstack,
         linearGradient: createLinearGradient('#F80090', '#242A31'),
         primaryColor: '#F80090',
         color: '#242A31'

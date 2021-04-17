@@ -19,9 +19,9 @@ const Skills = () => {
                 onMouseLeave={startThemeChangeTimer}
                 onMouseOver={handleMouseEnter} >
                 <li id="react" >React</li>
-                <li id="angular">Angular</li>
-                <li id="vue">Vue</li>
-                <li id="rxjs">Rxjs</li>
+                <li id="aws">AWS</li>
+                <li id="django">Django</li>
+                <li id="openstack">Openstack</li>
                 <li id="redux">Redux</li>
                 <li id="node">Node</li>
                 <li id="ngrx">Ngrx</li>
