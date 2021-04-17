@@ -49,12 +49,7 @@ export const THEMES = {
         primaryColor: '#764ABD',
         color: '#1E1E1E'
     },
-    'openstack': {
-        backgroundImage: openstack,
-        linearGradient: createLinearGradient('#F80090', '#242A31'),
-        primaryColor: '#F80090',
-        color: '#242A31'
-    }
+
 }
 
 function createLinearGradient(color1, color2) {
